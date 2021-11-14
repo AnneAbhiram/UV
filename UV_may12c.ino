@@ -44,10 +44,5 @@ void loop()
 
 
 /*
-   Hello my name is Abhiram i am from ECE 2nd year. My project is a UV intensity detector for skin protection.
-   It gives suggestions based on the output value. Now i will show you the working! I will plugin the arduino nano. Run the code.
-   The way it works is it gives the output based on the presence of UV light. The arduino determines the UV intensity based on the input voltage from the sensor.
-   Now the value is so that means it is safe. Now let us put a led light near the sensor...
-   so yes there is not much change in the value it is obvious because there is not uv content in the light. I will attach a picture when sunliht falls on this sensor.
-
-*/
+   My project is a UV intensity detector for skin protection.
+   The way it works is it gives the output based on the presence of UV light. The arduino determines the UV intensity based on the input voltage from the sensor and displays if protection is needed for the skin.
